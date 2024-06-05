@@ -1,0 +1,10 @@
+{
+    "intro": [
+        "Welcome to the game.",
+        "This is a test on the text system I am implementing.",
+        "It will store text data in .json files and pull that data...",
+        "To print it as if it is being typed!",
+        "This will be used for dialogue and narration!",
+        "Sweet!"
+    ]
+}
