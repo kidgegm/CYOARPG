@@ -9,7 +9,7 @@ def screen():
     return pygame.display.set_mode((width, height), pygame.NOFRAME) # Run game in borderless window mode
 
 def font():
-    filepath = './resources/fonts/JoganSoftRegular.ttf'
+    filepath = '../resources/fonts/JoganSoftRegular.ttf'
     size = 64
     return pygame.font.Font(filepath, size)
 
